@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/mzuliani-ibm/test-docs/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Do you want to know [how to change a tire](how-to/change a tire.html)?
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
